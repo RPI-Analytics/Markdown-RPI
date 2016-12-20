@@ -1,10 +1,29 @@
-## Welcome to GitHub Pages
+## Markdown, Jupyter, and Github as a New Publishing Paradigm for Classroom Content
 
-You can use the [editor on GitHub](https://github.com/RPI-Analytics/markdown-RPi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Why take this session?**
+
+*Markdown is an incredible tool that can be used throughout the teaching experience. With markdown you can do some incredible things, but when paired with tools like Jupyter and Github it is a gamechanger.*
+
+
+## What can it do?
+
+- Markdown/Github can help you to quickly create a styled course website course website without learning HTML.
+- Markdown/Juptyer can allow you to combine (1) 
+
+
+- New publishing paradigm.
+- 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Can 
+
+
+### Jupyter Notebooks
+- 
+
+###
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
