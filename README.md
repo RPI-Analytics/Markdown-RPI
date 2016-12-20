@@ -1,32 +1,43 @@
-## Markdown, Jupyter, and Github as a New Publishing Paradigm for Classroom Content
-
-**Why take this session?**
-
-*Markdown is an incredible tool that can be used throughout the teaching experience. With markdown you can do some incredible things, but when paired with tools like Jupyter and Github it is a gamechanger.*
+# Markdown, Jupyter, and Github as a New Publishing Paradigm for Classroom Content
 
 
-## What can it do?
 
+## Why take this session?
+
+Markdown is a versatile tool that can be used throughout the teaching experience.  With markdown you can prepare slides, notes, interactive demonstrations, write computer code, include images in documents and typeset equations.  When paired with tools such as Project Jupyter and GitHub it can be a gamechanger for the way you work in the classroom.
+
+## Who is this session for?
+
+Anyone who prepares classroom or lab content to be curated alone or in teams for deliverty to students.
+
+## How can I use markdown to help me in the classroom?
+
+(Needs editing here.)
 - Markdown/Github can help you to quickly create a styled course website course website without learning HTML.
 - Markdown/Jupyter can allow you to combine (1) content, (2) mathmatics, (3) calculation/computation, (4) assignments, and (5) presentations. 
-- 
-
-
 - New publishing paradigm.
-- 
 
+## What will I learn in this session?
+
+After taking this one-hour tutorial the atendee will:
+
+* Outcome 1
+* Outcome 2
+* Outcome 3
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Can 
+## Outline of the workshop
 
+### What markdown can do
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Why you'd want to do this
 
 ### Jupyter Notebooks
-- 
 
-###
+### Interactive session
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
