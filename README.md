@@ -8,7 +8,8 @@
 ## What can it do?
 
 - Markdown/Github can help you to quickly create a styled course website course website without learning HTML.
-- Markdown/Juptyer can allow you to combine (1) 
+- Markdown/Jupyter can allow you to combine (1) content, (2) mathmatics, (3) calculation/computation, (4) assignments, and (5) presentations. 
+- 
 
 
 - New publishing paradigm.
