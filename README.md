@@ -18,9 +18,9 @@ Anyone who prepares classroom or lab content to be curated alone or in teams for
 
 ## What will I learn in this session?
 
-After taking this one-hour tutorial the atendee will:
+After taking this one-hour tutorial the attendee will:
 
-* The contexts where Markdown is used
+* Understand the contexts where Markdown is used
 * See one example classroom use-case
 * Explore and use the basic syntax of Markdown
 * (If all goes well) Develop one or two examples on your own
