@@ -61,7 +61,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## (2) Getting Started with Github for a Course Webpage
 
-Github can automatically create a course website for you from markdown. This website is created useing markdown. From it you can see:
+Github can automatically create a course website for you from markdown. This website is created using markdown. From it you can see:
 - [Click here](https://raw.githubusercontent.com/RPI-Analytics/markdown-RPi/master/README.md) to see the raw markdown. 
 - [Click here](https://github.com/RPI-Analytics/markdown-RPi/blob/master/README.md) to see the styleized version.
 - [Click here](https://rpi-analytics.github.io/markdown-RPi/) to see the website which is automatically generated through a cool tool [Jekyll](https://jekyllrb.com) (which you don't have to learn anything about.   
