@@ -52,7 +52,7 @@ Syntax highlighted code block
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-(TBD put in example on the 
+(TBD put in example on using equations)
 
 ## (2) Getting Started with Github for a Course Webpage
 
