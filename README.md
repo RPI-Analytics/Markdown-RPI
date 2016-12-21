@@ -14,21 +14,27 @@ Anyone who prepares classroom or lab content to be curated alone or in teams for
 
 (Needs editing here.)
 - Markdown/Github can help you to quickly create a styled course website course website without learning HTML.
-- Markdown/Jupyter can allow you to combine (1) content, (2) mathmatics, (3) calculation/computation, (4) assignments, and (5) presentations. 
-- New publishing paradigm.
+- Markdown/Jupyter can allow you to combine (1) content, (2) mathematics, (3) calculation/computation, (4) assignments, and (5) presentations. 
+- Provides access to what is potentially a new publishing paradigm.
 
 ## What will I learn in this session?
 
 After taking this one-hour tutorial the atendee will:
 
-* Understand what Markdown is, how to use it
-* Outcome 2
-* Outcome 3
-
+* The contexts where Markdown is used
+* See one example classroom use-case
+* Explore and use the basic syntax of Markdown
+* (If all goes well) Develop one or two examples on your own
 
 ### Jupyter Notebooks
 
+One example use-case for Markdown is through the Jupyter Project's Jupyter notebook.  The link to that project is [here](http://jupyter.org/index.html).  Our intent in this tutorial is to provide access to a Jupyter notebook for the attendee so that you can write some content.  This might be for a class, a homework assignment, a lab tutorial or similar.  
+
+While not specific to the Jupyter notebook, the notebook interface provides a simple way for us to practice markdown with a minimum of overhead.
+
 ### Interactive session
+
+Let's get started!
 
 # TLDR/Can't Attend?  Here are the basics:
 
