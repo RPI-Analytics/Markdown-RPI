@@ -12,8 +12,8 @@ Anyone who prepares classroom or lab content to be curated alone or in teams for
 
 ## How can I use markdown to help me in the classroom?
 
-* Markdown/Github can help you to quickly create a styled course website course website without learning HTML.
-* Markdown/Jupyter can allow you to combine (1) content, (2) mathematics, (3) calculation/computation, (4) assignments, and (5) presentations. 
+* Markdown/Github can help you to quickly create a styled course website without learning HTML.
+* Markdown/Jupyter can allow you to combine (1) content/narrative, (2) equations/formulas, (3) calculation/computation, (4) assignments, and (5) presentations. 
 * Provides access to what is potentially a new publishing paradigm.
 
 ## What will I learn in this session?
