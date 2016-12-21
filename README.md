@@ -8,7 +8,7 @@ Markdown is a versatile tool that can be used throughout the teaching experience
 
 ## Who is this session for?
 
-Anyone who prepares classroom or lab content to be curated alone or in teams for deliverty to students.
+Anyone who prepares classroom or lab content to be curated alone or in teams for delivery to students.
 
 ## How can I use markdown to help me in the classroom?
 
