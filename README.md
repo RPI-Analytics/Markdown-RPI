@@ -81,6 +81,12 @@ Here are a couple of ways to try it out:
 
 See the [slides](http://nbviewer.jupyter.org/format/slides/github/RPI-Analytics/Markdown-RPI/blob/master/Slideshow_Example.ipynb#/) for this workshop.
 
+Workshop outline
+* 5 min
+* 10 min
+* 20 min
+* etc..
+
 ## (5) Case Studies
 
 Here are three case studies that use markdown.
