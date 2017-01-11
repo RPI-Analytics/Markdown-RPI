@@ -77,3 +77,7 @@ Want to get markdown + programming/computiation +  naritive + automated slides +
 Here are a couple of ways to try it out:
 - Go to [tmpnb.org](http://tmpnb.org) to launch your own Jupyter notebook.  
 
+## (4)
+
+See the [slides](http://nbviewer.jupyter.org/format/slides/github/RPI-Analytics/Markdown-RPI/blob/master/Slideshow_Example.ipynb#/) for this workshop.
+
