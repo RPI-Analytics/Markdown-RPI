@@ -82,11 +82,13 @@ Here are a couple of ways to try it out:
 See the [slides](http://nbviewer.jupyter.org/format/slides/github/RPI-Analytics/Markdown-RPI/blob/master/Slideshow_Example.ipynb#/) for this workshop.
 
 Workshop outline
-* 5 min
-* 10 min
-* 20 min
-* etc..
+* Introduction (2 minutes)
+* What is Markdown:  Syntax (7 minutes)
+* Case study One:  Website (7 minutes)
+* Case study Two:  Course Notes (7 minutes)
+* You try it! (20 minutes)
+* Where is this technology going?  (10 minutes)
 
-## (5) Case Studies
+## (5) Case Studies Reference
 
-Here are three case studies that use markdown.
+Here are three case studies that use markdown and notebooks.
