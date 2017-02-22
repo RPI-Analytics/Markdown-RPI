@@ -75,7 +75,7 @@ Want to create a separate page for each week of the course?  Throw it in a [GIST
 Want to get markdown + programming/computiation +  naritive + automated slides + autograding all in one package? [Jupyter](http://jupyter.org) is an open source project that allows a tremendous amound of different languages (Python, R, Matlab, Ruby, etc) in an interactive notebook environment.  It is being used in [Google's DataLab Project](https://cloud.google.com/datalab/), [IBM's Data Science Experience](http://datascience.ibm.com), and [Microsoft's Azure ML Studio](https://blogs.technet.microsoft.com/machinelearning/2015/07/24/introducing-jupyter-notebooks-in-azure-ml-studio/).
 
 Here are a couple of ways to try it out:
-- Go to [tmpnb.org](http://tmpnb.org) to launch your own Jupyter notebook.  
+- Go to [https://try.jupyter.org](https://try.jupyter.org/) to launch your own Jupyter notebook.  
 
 ## (4) Workshop Slides
 
