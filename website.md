@@ -30,3 +30,15 @@
 ```
 [New class page](./class_new.md)
 ```
+
+### Use a GIST for your New Page. 
+- *Probably not the best practice, but for some reason I got into habit of doing this.*
+- Go to [https://gist.github.com](https://gist.github.com)
+
+
+### Tips and Tricks
+- To copy from a markdown page to another, click on the *RAW* button. 
+
+
+
+
