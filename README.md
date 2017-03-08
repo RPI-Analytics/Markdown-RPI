@@ -112,8 +112,8 @@ Here are a couple of ways to try it out:
 
 See the [markdown slides](http://nbviewer.jupyter.org/format/slides/github/RPI-Analytics/Markdown-RPI/blob/master/Slideshow_Example.ipynb#/) for this workshop.
 
-See the Google slides embeded below.  
-<iframe src="https://docs.google.com/presentation/d/1qd5hv_Gg7curDYiWDBeMx-ElmK5aSWDEUAGcoKKQcik/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+See the [Google slides](https://docs.google.com/presentation/d/1qd5hv_Gg7curDYiWDBeMx-ElmK5aSWDEUAGcoKKQcik/edit?usp=sharing) here.  
+
 
 Workshop outline
 * Introduction (2 minutes)
