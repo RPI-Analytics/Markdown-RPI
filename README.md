@@ -95,8 +95,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Tips and Tricks
 - [Click here](https://raw.githubusercontent.com/RPI-Analytics/markdown-RPi/master/README.md) to see the raw markdown. 
-- [Click here](https://github.com/RPI-Analytics/markdown-RPi/blob/master/README.md) to see the styleized version.
-- [Click here](https://rpi-analytics.github.io/markdown-RPi/) to see the website which is automatically generated through a cool tool [Jekyll](https://jekyllrb.com) (which you don't have to learn anything about.)   
+- [Click here](https://github.com/RPI-Analytics/Markdown-RPI/blob/master/README.md) to see the styleized version.
+- [Click here](https://rpi-analytics.github.io/Markdown-RPI/) to see the website which is automatically generated through a cool tool [Jekyll](https://jekyllrb.com) (which you don't have to learn anything about.)   
 
 [Here](https://jkuruzovich.github.io/tech-fundamentals-analytics/) is an example of a full course website.  This is just for content delivery and not for grading or assignments.  We still use the LMS for that. 
 
