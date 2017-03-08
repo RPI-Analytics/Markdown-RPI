@@ -61,14 +61,45 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## (2) Getting Started with Github for a Course Webpage
 
-Github can automatically create a course website for you from markdown. This website is created using markdown. From it you can see:
+### Why Markdown and Github?
+
+(1) Creates a very professional looking website in almost no time.  
+(2) Easy for students to access information.
+(3) Easy to update information.
+(4) Easy to reuse information from year to year.
+(5) Easy to collaborate with other content creaters.
+(6) Version control.
+
+### Getting Started
+- A github *repository* is the foundation for a class website. This requires at least one markdown file, `readme.md`.  
+- A repository is a "digital directory or storage space where you can access your project, its files, and all the versions of its files that Git saves." - [readwrite.com](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+- Can be used for a wesite, or to share files as well. 
+
+### Example Repository  
+- Fork an [example repository](https://github.com/RPI-Analytics/class-webpage-example) in order to get your first website started.  
+- Click on **Settings->Source->Master Branch**
+- Click on **Theme Chooser**
+- It will take a few minutes to generate your website, but that is it!
+
+### Creating a New Page
+- Relative references are allowed for links, so you just need to include something like:
+
+```
+[New class page](./class_new.md)
+```
+
+### Use a GIST for your New Page. 
+- *Probably not the best practice, but for some reason I got into habit of doing this.*
+- Go to [https://gist.github.com](https://gist.github.com)
+
+
+### Tips and Tricks
 - [Click here](https://raw.githubusercontent.com/RPI-Analytics/markdown-RPi/master/README.md) to see the raw markdown. 
 - [Click here](https://github.com/RPI-Analytics/markdown-RPi/blob/master/README.md) to see the styleized version.
-- [Click here](https://rpi-analytics.github.io/markdown-RPi/) to see the website which is automatically generated through a cool tool [Jekyll](https://jekyllrb.com) (which you don't have to learn anything about.   
+- [Click here](https://rpi-analytics.github.io/markdown-RPi/) to see the website which is automatically generated through a cool tool [Jekyll](https://jekyllrb.com) (which you don't have to learn anything about.)   
 
 [Here](https://jkuruzovich.github.io/tech-fundamentals-analytics/) is an example of a full course website.  This is just for content delivery and not for grading or assignments.  We still use the LMS for that. 
 
-Want to create a separate page for each week of the course?  Throw it in a [GIST](https://gist.github.com) as we did in [this example](https://gist.github.com/jkuruzovich/f55f10c4e8dee3e137fec4be06c58e91).
 
 ## (3) Try Jupyter 
 
@@ -79,7 +110,10 @@ Here are a couple of ways to try it out:
 
 ## (4) Workshop Slides
 
-See the [slides](http://nbviewer.jupyter.org/format/slides/github/RPI-Analytics/Markdown-RPI/blob/master/Slideshow_Example.ipynb#/) for this workshop.
+See the [markdown slides](http://nbviewer.jupyter.org/format/slides/github/RPI-Analytics/Markdown-RPI/blob/master/Slideshow_Example.ipynb#/) for this workshop.
+
+See the Google slides embeded below.  
+<iframe src="https://docs.google.com/presentation/d/1qd5hv_Gg7curDYiWDBeMx-ElmK5aSWDEUAGcoKKQcik/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Workshop outline
 * Introduction (2 minutes)
