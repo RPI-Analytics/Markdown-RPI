@@ -63,7 +63,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Why Markdown and Github?
 
-(1) Creates a very professional looking website in almost no time.
+(1) Creates a very professional looking website in almost no time.<br>
 (2) Easy for students to access information. <br>
 (3) Easy to update information. <br>
 (4) Easy to reuse information from year to year. <br>
