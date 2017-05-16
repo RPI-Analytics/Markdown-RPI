@@ -59,7 +59,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 (TBD put in example on using equations)
 
-## (2) Getting Started with Github for a Course Webpage [Video Link](https://youtu.be/xJac63RMjWw)
+## (2) Getting Started with Github for a Course Webpage - [Video Link](https://youtu.be/xJac63RMjWw)
 
 
 ### Why Markdown and Github?
